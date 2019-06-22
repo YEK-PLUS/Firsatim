@@ -1,0 +1,16 @@
+.card-link{
+  color:white;
+  /* background-color: #f8f9fa !important;; */
+}
+.card-link:hover{
+  color:white;
+}
+.card-border{
+  border-color:rgba(0,0,0,0.3) !important;
+}
+.card-link-out{
+  background-color:#e60022;
+}
+.card-link-out:hover{
+  background-color:#d90020;
+}

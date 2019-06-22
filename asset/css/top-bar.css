@@ -1,0 +1,10 @@
+.top-bar{
+  background-image: linear-gradient(135deg,#dc3558,#9b3589 50%,#5e4b9c);
+}
+.magza-link{
+  color:grey;
+  background-color: #f8f9fa !important;;
+}
+.magza-link:hover{
+  color:grey;
+}
